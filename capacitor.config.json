@@ -1,0 +1,6 @@
+{
+  "appId": "com.baday.quickcount",
+  "appName": "Quick Count Dayatulloh",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
